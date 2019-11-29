@@ -1,0 +1,6 @@
+export const ADD_TODO = 'add_todo'
+export const REMOVE_TODO = 'remove_todo'
+export const UPDATE_TODO = 'update_todo'
+export const TODO_DONE = 'todo_done'
+export const SET_TODOS = 'set_todos'
+export const FETCHING_TODOS = 'fetching_todos'
